@@ -4,7 +4,7 @@ let learning = true;
 let killingIt = false;
 
 
-function returnFalse() {
+function returnFalse(killingIt) {
 
 }
 
